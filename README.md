@@ -1,2 +1,3 @@
-# MyCICD
-Practise CICD
+# maven-project
+
+Simple Maven Project
